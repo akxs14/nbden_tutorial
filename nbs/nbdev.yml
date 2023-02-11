@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbden_tutorial"
+  site-url: "https://akxs14.github.io/nbden_tutorial"
+  description: "Trying out nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/akxs14/nbden_tutorial"
